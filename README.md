@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [view Demo](https://github.com/Dunniola/NTF-preview-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify App](http://ntf-preview-card-main.netlify.app)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](http://ntf-preview-card-main.netlify.app)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
